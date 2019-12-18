@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to SYPortfolio
 
-I'm glad you are here. I plan to talk about ...
+This is the display showcase of Sorat Yamockul's UX/UI project
